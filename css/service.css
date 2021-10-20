@@ -131,7 +131,7 @@ header h1 span {
   font-size: 90px;
   color: transparent;
   -webkit-text-stroke: 1px rgba(255, 255, 255, 0.109);
-  background: url(/img/back.png);
+  background: url(../img/back.png);
   background-size: cover;
   background-position: 0 0;
   -webkit-background-clip: text;
